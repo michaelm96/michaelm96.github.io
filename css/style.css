@@ -9,5 +9,6 @@ body{
 }
 
 li{
-    size: 200px;
+    size: 400px;
+    float: center;
 }
