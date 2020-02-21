@@ -1,0 +1,94 @@
+body{
+    margin: 0 auto;
+}
+
+.bg-image{
+    background-image: url("./image/michael-fertig-Hjz5xizyHgw-unsplash.jpg");
+    width: 100%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-color: rgb(167, 164, 164);
+    background-blend-mode: darken;
+}
+
+.border{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'Pacifico';
+    font-size: 100px;
+    font-size: 72px;
+    background: -webkit-linear-gradient(#C33764, #0575E6, #1D2671);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    font-size: 50px;
+    color: rgb(228, 229, 226);
+    font-family: 'Lobster';
+}
+
+hr.style-three {
+    width: 70%;
+    border-bottom: 1px dashed #ffc2c2;
+    background: #beebe9;
+    margin: 110px auto;
+}
+
+h2{
+    font-size: 70px;
+    color: #00a8cc;
+}
+
+#aboutMe p{
+    font-size: 20px;
+    color: rgb(228, 229, 226);
+    margin-right: 30%;
+}
+
+#aboutMe{
+    box-sizing: content-box;
+}
+
+.aboutLeft{
+    width: 50%;
+    /* display: inline-block; */
+    float: left;
+    text-align: center;
+}
+
+.bacon{
+    width: 50%;
+    display: inline-block;
+}
+
+.aboutRight{
+    width: 50%;
+    /* display: inline-block; */
+    float: right;
+    text-align: center;
+}
+
+.skill{
+    width: 30%;
+    display: inline-block;
+    margin-left: 15%;
+}
+
+.purple {
+    color:#F8FFAE;
+}
+
+.quote{
+    color: rgb(1, 75, 94);
+    text-align: center;
+    margin: 0 15%;
+}
