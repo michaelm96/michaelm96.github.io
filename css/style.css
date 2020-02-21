@@ -1,7 +1,5 @@
 body{
     margin: 0 auto;
     background-image: url(../image/michael-fertig-Hjz5xizyHgw-unsplash.jpg);
-    /* width: auto;
-    height: fit-content;
-    object-fit: cover; */
+    max-width: 600px;
 }
