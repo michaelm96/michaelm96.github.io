@@ -1,9 +1,9 @@
 body{
     margin: 0 auto;
-    /* background-image: url(../image/michael-fertig-Hjz5xizyHgw-unsplash.jpg); */
 }
 
-img{
+.bg-image{
+    background-image: url("../image/michael-fertig-Hjz5xizyHgw-unsplash.jpg");
     width: 100%;
     height: auto;
 }
